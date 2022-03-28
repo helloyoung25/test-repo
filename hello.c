@@ -1,4 +1,6 @@
+#include <iostream>
+
 main()
 {
-	printf("Hello World!\n");
+	std::cout << "Hello World!" << std::endl;
 }
